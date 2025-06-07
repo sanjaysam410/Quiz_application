@@ -92,7 +92,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Your Name - SANJAY SAMALA (sanjaysamala4100@gmail.com)
 
-Project Link: 
+Project Link: https://github.com/sanjaysam410/Quiz_application
 
 OUTPUT ::
 <img width="1624" alt="Image" src="https://github.com/user-attachments/assets/6094245a-1e2f-4726-9d18-30ef6473db62" />
